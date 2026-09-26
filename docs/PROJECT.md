@@ -44,9 +44,14 @@ Install with `pip install -r requirements.txt` inside a Python 3.9+ virtualenv.
 **Pinned install file:** `requirements.txt`
 
 ```
+# --- Runtime (CLI, UI, scoring) ---
 numpy>=2.0
+
+# --- Tests / evals ---
 pytest>=8.0
 ```
+
+Also required outside pip: **Python 3.9+**, and **`GEMINI_API_KEY`** when embedding new text or refreshing the fixture.
 
 **Not required as pip packages:** Google AI SDK, web frameworks, or embedding libraries. Gemini is called over HTTPS with `urllib`. Offline scoring of fixture text needs only NumPy + `tests/fixtures/corpus.json`.
 
