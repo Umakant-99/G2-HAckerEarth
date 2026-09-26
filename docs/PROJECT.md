@@ -29,6 +29,27 @@ The challenge is to **reward content that is genuinely novel** while ensuring it
 
 ## 2. Engineering design
 
+### 2.0 Dependencies
+
+Install with `pip install -r requirements.txt` inside a Python 3.9+ virtualenv.
+
+| Dependency | Version / source | Required for | Notes |
+| --- | --- | --- | --- |
+| **Python** | 3.9+ | Runtime | Prefer `.venv`; on macOS use `source .venv/bin/activate` or `.venv/bin/python` |
+| **NumPy** | `numpy>=2.0` | Scoring math (`scorer.py`, vectors) | Only third-party runtime library |
+| **pytest** | `pytest>=8.0` | Automated tests | Dev / eval; not needed to run CLI or UI |
+| **Gemini API** | External HTTPS API | Embed new text; build / refresh fixture | Set `GEMINI_API_KEY` in the environment; never commit the key |
+| **stdlib** | Bundled with Python | CLI, HTTP UI, Gemini HTTP client, JSON I/O | `http.server`, `urllib`, `json`, `argparse`, `pathlib`, `hashlib`, `dataclasses`, etc. — no Flask/FastAPI |
+
+**Pinned install file:** `requirements.txt`
+
+```
+numpy>=2.0
+pytest>=8.0
+```
+
+**Not required as pip packages:** Google AI SDK, web frameworks, or embedding libraries. Gemini is called over HTTPS with `urllib`. Offline scoring of fixture text needs only NumPy + `tests/fixtures/corpus.json`.
+
 ### 2.1 Data model
 
 A submission has exactly three fields:
@@ -134,6 +155,7 @@ User text (CLI / UI)
 | `details.md` | Design notes used during implementation |
 | `docs/TESTING.md` | How to verify the system |
 | `docs/PROJECT.md` | This engineering design document |
+| `requirements.txt` | Pip dependencies (NumPy, pytest) |
 | `README.md` | Short setup and usage |
 
 ---
