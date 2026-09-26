@@ -1,0 +1,259 @@
+{
+  "reference": {
+    "text": "Rooftop gardens in cities cool the rooms under them, soak up rain before it floods drains, and produce herbs and vegetables close to the kitchens that use them. They also offer nectar and shelter for bees and other pollinators that would otherwise pass over a hot roof. A well-kept roof garden turns empty membrane into useful green infrastructure."
+  },
+  "model": "gemini-3.5-flash",
+  "generated_at": "2026-09-26T07:33:43.454389+00:00",
+  "submissions": [
+    {
+      "id": "prior_001",
+      "text": "Before my 12-hour shift at the hospital begins, I climb up to my paint-bucket containers in the dark. Plucking fresh mint under the glow of the skyline, I slip the leaves into my pocket. Slipping them into my water bottle later keeps me awake through the longest nights.",
+      "author_id": "Elena Rostova"
+    },
+    {
+      "id": "prior_002",
+      "text": "We had another shouting match by the clothesline this morning. Sarah claims she bought the soil, but I'm the one who hauled the water up five flights of stairs to keep that basil alive. Now she's making pesto with my hard work, and I've had absolutely enough.",
+      "author_id": "Marcus Vance"
+    },
+    {
+      "id": "prior_003",
+      "text": "Last night's frost turned the pepper plants black, but today is for salvage. I am sitting on a folding chair, scraping tiny seeds onto paper towels and sliding them into labeled paper envelopes. Come spring, these hot habaneros will rise again on this very rooftop.",
+      "author_id": "Clara Higgins"
+    },
+    {
+      "id": "prior_004",
+      "text": "My daughter spends hours sitting cross-legged by the wooden planter boxes. She has named the fuzzy bumblebee with the torn wing Barnaby, and the smaller one hovering over the purple thyme flowers is Penelope. To her, this gravel roof is a bustling kingdom of friends.",
+      "author_id": "David Chen"
+    },
+    {
+      "id": "prior_005",
+      "text": "I just carried a colander of sun-warmed cherry tomatoes down four flights of stairs straight to my kitchen. Plunged directly into a hot cast-iron skillet with garlic, they burst and reduce into a sweet sauce. You cannot get fresher pasta than this in the middle of Chicago.",
+      "author_id": "Lucia Moretti"
+    },
+    {
+      "id": "prior_006",
+      "text": "You have to position the hive entrance facing east, away from our brutal westerly gusts. If the wind blows directly into the opening, the bees waste precious energy heating the brood chamber instead of foraging. Here, tucked behind the brick parapet, they stay calm and productive.",
+      "author_id": "Amir Naifeh"
+    },
+    {
+      "id": "prior_007",
+      "text": "This afternoon I am dumping out the dusty, exhausted potting soil from my tomato buckets. I am mixing in rich, black compost made from the espresso grounds I collected from the bakery downstairs. It smells like a damp forest floor up here on the sixth floor.",
+      "author_id": "Toby Miller"
+    },
+    {
+      "id": "prior_008",
+      "text": "Gently pinching the tiny green buds, I showed Maya how to stop the basil from bolting. If we let the flowers bloom, the leaves turn bitter and tough. She mimicked my grip with her small fingers, learning the quiet patience of keeping a rooftop garden sweet.",
+      "author_id": "Arthur Pendelton"
+    },
+    {
+      "id": "prior_009",
+      "text": "I was pulling up the roots of my finished lettuce today and gasped. Deep in the tray, which I filled with sterile coconut coir months ago, three fat earthworms were wiggling. I have no idea how they climbed to the tenth floor, but they are welcome guests.",
+      "author_id": "Sasha Geller"
+    },
+    {
+      "id": "prior_010",
+      "text": "My notebook stays closed all winter, but now the rosemary bushes are covered in pale blue blossoms. I sit on the warm concrete ledge, breathing in the piney scent while the words finally come. This brief, fragrant window is the only time my poetry flows.",
+      "author_id": "Julian Cruz"
+    },
+    {
+      "id": "prior_011",
+      "text": "I leaned across the gap between our high-rises to hand over a basket of my fiery rooftop habaneros and serranos. In return, Clara passed me half a dozen fresh eggs from her balcony hens. It is a perfect high-altitude trade that makes our concrete canyon feel like a cozy village market.",
+      "author_id": "Mateo Silva"
+    },
+    {
+      "id": "prior_012",
+      "text": "To settle the kitchen debate, I rubbed our sun-baked rooftop oregano between my palms and took a deep sniff alongside the store-bought bundle. The difference is night and day. The roof-grown leaves pack a louder, oil-rich punch that will elevate our signature marinara sauce tonight.",
+      "author_id": "Chef Clara Vance"
+    },
+    {
+      "id": "prior_013",
+      "text": "Yesterday's sudden hailstorm absolutely shredded my butterhead lettuce, leaving the leaves looking like green confetti. Today, I am up here with a heavy-duty needle and nylon thread, mending the torn green shade cloth so the next weather tantrum doesn't destroy my remaining tender butterheads.",
+      "author_id": "Devon Miller"
+    },
+    {
+      "id": "prior_014",
+      "text": "I spent my Saturday afternoon holding my phone camera steady over the lavender patches up here. For my tenth-grade biology project, I managed to film three different bumblebees and a metallic green sweat bee collecting pollen, proving our urban roof is actually a bustling wild sanctuary.",
+      "author_id": "Leo Chen"
+    },
+    {
+      "id": "prior_015",
+      "text": "Instead of tossing the prickly tops from my massive radish harvest, I am packing the greens into wide-mouth jars with garlic and sea salt. This simple ferment will bubble away in my dark pantry for a week, turning tough roof waste into a tangy, sour pickle that pairs perfectly with rice.",
+      "author_id": "Aisha Rahman"
+    },
+    {
+      "id": "prior_016",
+      "text": "My phone has been buzzing nonstop since dawn because the building group chat is absolutely furious. Someone snuck up to the seventh floor last night and picked the single, perfect ruby-red strawberry we had been watching ripen on the vine all week, igniting an intense whodunit mystery.",
+      "author_id": "Marcus Brody"
+    },
+    {
+      "id": "prior_017",
+      "text": "With my magnifying glass in hand, I sat quietly by the yellow fennel umbels for an hour this morning. I counted fourteen tiny hoverflies darting among the blossoms, a wonderful sight that reminds this retired botanist how life finds a way, even fifty feet above the asphalt pavement.",
+      "author_id": "Dr. Evelyn Vance"
+    },
+    {
+      "id": "prior_018",
+      "text": "Our apartment windowsill is currently crowded with cardboard egg cartons stuffed with soil and tiny green shoots. I am carefully nurturing these delicate romaine and loose-leaf lettuce seedlings indoors until they grow strong enough to survive the wind and strong sunshine up on the main roof deck.",
+      "author_id": "Sasha Geller"
+    },
+    {
+      "id": "prior_019",
+      "text": "As I raised my glass to toast my sister and her new husband, I had to point out the beautiful green garnish on everyone's plates. That fresh, peppery parsley was harvested just hours ago right above our heads on the venue's roof, adding a special local touch to this unforgettable evening.",
+      "author_id": "Julian Kross"
+    },
+    {
+      "id": "prior_020",
+      "text": "A pair of stubborn pigeons has officially claimed the corner right beside my climbing pole beans for their twiggy nest. Rather than chasing them away, we gardeners have agreed on a silent truce, letting them hatch their eggs in peace while we tend our vines just inches away.",
+      "author_id": "Priya Patel"
+    },
+    {
+      "id": "prior_021",
+      "text": "I spent the morning harvesting the last bright orange calendula heads from our raised beds. Now they are tucked away in brown paper bags, hanging from the roof rafters to dry. By January, these dried petals will make a soothing, warm winter tea that tastes like summer sun.",
+      "author_id": "Elena Vance"
+    },
+    {
+      "id": "prior_022",
+      "text": "Being new to the building, I didn't realize there was a set schedule for watering. I dragged the heavy hose out on the wrong afternoon and completely flooded the communal thyme patch. The poor Mediterranean herbs are currently drowning in a mini lake of my own making.",
+      "author_id": "Marcus Chen"
+    },
+    {
+      "id": "prior_023",
+      "text": "My experimental corner is paying off. I planted Sweet Million, Sun Gold, and Super Sweet 100 cherry tomatoes in three identical blue crates. Side by side in the same soil, the Sun Golds are easily winning the sweetness competition, though the Sweet Millions are yielding much heavier clusters.",
+      "author_id": "Sarah Jenkins"
+    },
+    {
+      "id": "prior_024",
+      "text": "As the building caretaker, I keep my head down during my shift. But once the tenants go downstairs and I am alone on the roof, I whisper encouragement to the flagging zucchini blossoms. They seem to grow much better when they receive a little quiet conversation under the open sky.",
+      "author_id": "Arthur Pendelton"
+    },
+    {
+      "id": "prior_025",
+      "text": "With the October frost looming tonight, there is no hope for the remaining green tomatoes on the vine. I harvested every single firm green globe this afternoon. They are currently bubbling in a hot vinegar brine with dill and mustard seeds, destined to become delicious winter pickles.",
+      "author_id": "Chloe Morrison"
+    },
+    {
+      "id": "prior_026",
+      "text": "Every Tuesday morning, our community food pantry receives three enormous, heavy bags of fresh kale, Swiss chard, and butterhead lettuce harvested directly from the apartment rooftop. Our clients are always thrilled to get such crisp, vibrant greens that were growing just blocks away only hours earlier.",
+      "author_id": "David Kalu"
+    },
+    {
+      "id": "prior_027",
+      "text": "At dusk, the rooftop quieted down and the yellow evening primrose blossoms finally unfurled. I sat perfectly still as a massive hawk moth arrived, its wings hovering in a blur as it plunged its long proboscis deep into the flowers. It was a magical, wild moment high above the traffic.",
+      "author_id": "Yasmine Al-Fayed"
+    },
+    {
+      "id": "prior_028",
+      "text": "Our landlord explicitly demanded neat, manicured English ivy and red geraniums up here. Instead, we banded together and planted towering rows of Clemson Spineless okra. The tall, beautiful stalks are blooming with pale yellow hibiscus-like flowers, and he has not even noticed that we are growing food.",
+      "author_id": "Bobby Delgado"
+    },
+    {
+      "id": "prior_029",
+      "text": "The stairwell smells absolutely incredible today. I pulled our entire summer garlic crop this afternoon, brushed the soil from the roots, and tied them in neat bundles. They are now hanging in long, fragrant strings from the metal stairwell railing where the draft will cure them perfectly.",
+      "author_id": "Nadia Petrova"
+    },
+    {
+      "id": "prior_030",
+      "text": "A sudden rainstorm trapped me upstairs, so I dragged a wooden stool under the massive iron water tank for shelter. I spent a peaceful, damp afternoon listening to the downpour while shelling a bucket of English peas. The rhythmic pop of the green pods was the only sound besides the rain.",
+      "author_id": "Julian Frost"
+    },
+    {
+      "id": "prior_031",
+      "text": "Young Leo from apartment 4B was terrified of everything buzzing up here, so I sat him down by the chives. I showed him how the fat, fuzzy bee bumbles slowly from bloom to bloom, while the stripey little hoverfly darts and hovers in mid-air like a tiny helicopter. Now he is hunting for them with magnifying glasses.",
+      "author_id": "Clara Higgins"
+    },
+    {
+      "id": "prior_032",
+      "text": "We still laugh about the summer our orange and yellow nasturtiums went absolutely wild. They jumped right out of their wooden raised bed, sprawling across the gravel path until we had to lift their peppery, round leaves with our boots just to reach the tool shed. The entire rooftop looked like a bright, tangled jungle.",
+      "author_id": "Marcus Vance"
+    },
+    {
+      "id": "prior_033",
+      "text": "Every Thursday morning, I climb up to the roof before sunrise to harvest fresh rosemary. The piney scent clings to my apron as I carry the wooden basket back down to my kitchen. Kneaded into our sourdough loaves, this roof-grown herb gives our weekly rustic bread a wonderful, fragrant crust that sells out by noon.",
+      "author_id": "Elena Rostova"
+    },
+    {
+      "id": "prior_034",
+      "text": "I keep a stained, dog-eared blue notebook in my back pocket to track our rooftop seasons. Today, I carefully logged the first pale purple chive blossom of spring. Comparing these dates year over year shows me exactly how our high-altitude microclimate is shifting, written in my own messy, pencil-smudged handwriting.",
+      "author_id": "Arthur Pendelton"
+    },
+    {
+      "id": "prior_035",
+      "text": "Sarah and I had a fierce argument yesterday afternoon over the layout of plot four. She insisted that companion planting marigolds right next to our heirloom tomatoes would ward off pests, while I complained their pungent smell would ruin my morning watering routine. In the end, we compromised and planted just three small orange flowers.",
+      "author_id": "Julio Mendez"
+    },
+    {
+      "id": "prior_036",
+      "text": "When the main water pump blew on Tuesday, our garden became a test of endurance. I spent three exhausting hours hauling heavy, sloshing green watering cans up four flights of concrete stairs to save our wilting squash plants. My shoulders are still aching, but seeing the green leaves perk up made every single step worth it.",
+      "author_id": "Devon Carter"
+    },
+    {
+      "id": "prior_037",
+      "text": "My cousin Maya grew up in a concrete suburb and had only ever eaten refrigerated supermarket produce. Yesterday, I plucked a ripe, red cherry tomato straight from the vine and handed it to her. She gasped as she bit into it, amazed at how sweet and intensely warm it tasted from the afternoon sun.",
+      "author_id": "Chloe Jenkins"
+    },
+    {
+      "id": "prior_038",
+      "text": "During yesterday's blistering ninety-degree heatwave, I worried about our tiny pollinating visitors. I filled a wide, shallow terracotta dish with cool tap water, scattering smooth river pebbles across the bottom so the honeybees could land safely and drink without drowning. Within an hour, three thirsty bees were resting on the wet stones.",
+      "author_id": "Siddharth Mehta"
+    },
+    {
+      "id": "prior_039",
+      "text": "After a long Saturday evening of tying up our heavy, sprawling heirloom vines with rough jute twine, everyone sat down on the benches to rest. We all laughed when we realized we smelled exactly the same. Our hands were stained green and perfumed with that sharp, unmistakable aroma of crushed tomato leaves.",
+      "author_id": "Naomi Tanaka"
+    },
+    {
+      "id": "prior_040",
+      "text": "As the sun dipped below the city skyline, casting a warm orange glow over the brickwork, we gathered for our annual autumn seed swap. Neighbors traded hand-labeled envelopes of dried sunflower, bean, and pepper seeds. We shared stories of our summer harvests while sipping cider, surrounded by the rustling stalks of our high-altitude sanctuary.",
+      "author_id": "Liam Gallagher"
+    },
+    {
+      "id": "prior_041",
+      "text": "I was about to pull up our ruined kale yesterday when I noticed a tiny, bright red army. A whole colony of ladybirds had settled onto the leaves. Within forty-eight hours, they completely cleared the aphid outbreak, saving our entire autumn harvest.",
+      "author_id": "Elena Rostova"
+    },
+    {
+      "id": "prior_042",
+      "text": "My knees aren't what they used to be, and hauling heavy baskets of vegetables down four flights of stairs to my kitchen is just too much. Instead, I grow only bright marigolds and sweet peas up here. The beauty is more than enough.",
+      "author_id": "Arthur Pendelton"
+    },
+    {
+      "id": "prior_043",
+      "text": "To make sure everyone feels welcome at the plots, I spent my Sunday afternoon laminating new plant labels. I wrote the names of our herbs in English, Spanish, and Cantonese so all the families in our mixed building know exactly what is growing.",
+      "author_id": "Mei-Ling Zhou"
+    },
+    {
+      "id": "prior_044",
+      "text": "We still laugh about the legendary melon vine of three summers ago. It grew fifteen feet long, snaked across the gravel, and produced exactly one rock-hard, pocket-sized cantaloupe. It was an utter disaster, but we still talk about it every spring.",
+      "author_id": "Marcus Vance"
+    },
+    {
+      "id": "prior_045",
+      "text": "Saturday mornings up here have a lovely rhythm. We share a single pair of sharp pruning scissors and a woven harvest basket, passing them back and forth between the raised beds as we chat about our plans for the weekend.",
+      "author_id": "Sarah Jenkins"
+    },
+    {
+      "id": "prior_046",
+      "text": "If you are looking for Barnaby, the fluffy ginger cat from apartment 4B, you will find him upstairs. He has claimed the narrow, shady gap between the terracotta strawberry pots as his personal, fragrant outdoor sleeping spot during the afternoon heat.",
+      "author_id": "Oliver Higgins"
+    },
+    {
+      "id": "prior_047",
+      "text": "August on the roof means constant work. Yesterday, I harvested bushels of lush green spinach, brought them down to my stove for a quick blanch, and packed the bags into my freezer to keep a taste of summer preserved for the winter.",
+      "author_id": "Nadia Demir"
+    },
+    {
+      "id": "prior_048",
+      "text": "For my biology fieldwork, I sat quietly by the purple borders with a stopwatch this morning. In just ten minutes, I counted fourteen bumblebees and six honeybees visiting a single patch of blooming lavender. The activity up here is incredible.",
+      "author_id": "Liam O'Connor"
+    },
+    {
+      "id": "prior_049",
+      "text": "My office desk downstairs felt so suffocating today, so I ran up to the deck during my midday lunch break. I pinched a fragrant handful of fresh lemon balm leaves and brewed a calming hot tea right at my workstation.",
+      "author_id": "Chloe Dupont"
+    },
+    {
+      "id": "prior_050",
+      "text": "There is a silent, unwritten rule among all the gardeners in our building. We always stop picking when we reach the end of the strawberry rows, leaving the last handful of ripe red berries specifically for the hungry sparrows.",
+      "author_id": "Rajesh Patel"
+    }
+  ]
+}
