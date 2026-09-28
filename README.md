@@ -12,7 +12,91 @@ final_score = max(relevance, 0) * novelty
 
 The reference is a `Submission` with `id="reference"`. Every submission has `id`, `text` (at most 100 words), and `topic`.
 
-## Setup
+## Run on another machine
+
+### Requirements
+
+| Need | Detail |
+| --- | --- |
+| OS | macOS, Linux, or Windows |
+| Python | 3.9 or newer (`python3 --version`) |
+| Pip packages | `numpy>=2.0`, `pytest>=8.0` (from `requirements.txt`) |
+| API key | `GEMINI_API_KEY` — only for **new** text embeddings or rebuilding the fixture |
+| Network | Needed for `git clone`, `pip install`, and Gemini calls; not needed for offline `pytest` or scoring text already in the fixture |
+
+The repo already includes `tests/fixtures/corpus.json`, so you do **not** need to regenerate data to run tests or score known texts.
+
+### 1. Clone and install
+
+```bash
+git clone https://github.com/Umakant-99/G2-HAckerEarth.git
+cd G2-HAckerEarth
+
+python3 -m venv .venv
+
+# macOS / Linux
+source .venv/bin/activate
+
+# Windows (PowerShell)
+# .venv\Scripts\Activate.ps1
+
+pip install -r requirements.txt
+```
+
+### 2. Set the API key (optional for offline checks)
+
+```bash
+# macOS / Linux
+export GEMINI_API_KEY="your-key"
+
+# Windows (PowerShell)
+# $env:GEMINI_API_KEY="your-key"
+```
+
+Or create a local `.env` file (gitignored) with `GEMINI_API_KEY=your-key`, then load it in the same shell before starting the server:
+
+```bash
+set -a && source .env && set +a   # macOS / Linux
+```
+
+Do not commit the key or put it in source files.
+
+### 3. Verify (offline — no API key)
+
+```bash
+pytest -v
+# expect: 5 passed
+```
+
+### 4. Run the local UI
+
+```bash
+python -m novelty.server
+```
+
+Open [http://127.0.0.1:8000](http://127.0.0.1:8000).
+
+- Text already in the fixture scores offline from cached vectors.
+- New text needs `GEMINI_API_KEY` in the **same shell** that started the server.
+
+### 5. Run the CLI
+
+```bash
+python -m novelty "Your submission text here"
+```
+
+### Quick checks
+
+| Goal | Command |
+| --- | --- |
+| Automated tests | `pytest -v` |
+| Web UI | `python -m novelty.server` → http://127.0.0.1:8000 |
+| One-off score | `python -m novelty "…"` |
+| Rebuild fixture | `export GEMINI_API_KEY=…` then `python -m novelty.synth_data --refresh` |
+
+More detail: [`docs/TESTING.md`](docs/TESTING.md), [`docs/PROJECT.md`](docs/PROJECT.md).
+
+## Setup (short)
 
 ```bash
 python3 -m venv .venv
